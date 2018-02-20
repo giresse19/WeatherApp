@@ -1,5 +1,7 @@
-WeatherApp
- Simple Weather App which uses live API to tell graphical weather predictions
+### WeatherApp
+
+
+### Simple Weather App which uses live API to tell graphical weather predictions
  of some chosen locations in the world.
 
 
